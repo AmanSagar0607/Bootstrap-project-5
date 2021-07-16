@@ -12,7 +12,7 @@
 .card{
     align-self: center;
     width: 16rem;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 
@@ -43,11 +43,7 @@
   }
 
 @media (max-width: 500px) {
-    .carousel-item img{
-        width:auto;
-        
-        
-    }
+   
 
     .about-main
     {
